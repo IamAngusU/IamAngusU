@@ -1,6 +1,5 @@
-    ░ ░ ░ ░ ░ ░ ▒ ▒ ▒ ░ ░ ░ ░
-  ░ ░ ░ ░ ▒ ▒ ▓ ▓ ▒ ▒ ░ ░ ░
-░ ░ ▒ ▒ ▓ ▓ ▓ ▓ ▓ ▒ ▒ ░ ░ ░
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/0fde85a9-f15e-4115-9ad6-ab41ed1d16db" />
+
 
 <!--
 **IamAngusU/IamAngusU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
