@@ -42,8 +42,7 @@ I build privacy-aware products, backend-heavy systems and calm interfaces that f
 <p>
   <a href="https://angusu.de/">Website</a> ·
   <a href="https://angusu.de/insights/">Insights</a> ·
-  <a href="mailto:dev@angusby.dev">Email</a> ·
-  <a href="https://github.com/IamAngusU/IamAngusU/actions/workflows/render-profile.yml"><img src="https://github.com/IamAngusU/IamAngusU/actions/workflows/render-profile.yml/badge.svg" alt="Profile renderer status"></a>
+  <a href="mailto:dev@angusby.dev">Email</a>
 </p>
 
 ---
