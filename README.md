@@ -14,9 +14,9 @@
 
 <a href="https://angusu.de/inkwall/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://angusu.de/inkwall/latest.svg?theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://angusu.de/inkwall/latest.svg?theme=light">
-    <img width="100%" src="https://angusu.de/inkwall/latest.svg?theme=light" alt="Latest public InkWall message">
+    <source media="(prefers-color-scheme: dark)" srcset="https://angusu.de/inkwall/latest.svg?theme=dark&amp;v=4">
+    <source media="(prefers-color-scheme: light)" srcset="https://angusu.de/inkwall/latest.svg?theme=light&amp;v=4">
+    <img width="100%" src="https://angusu.de/inkwall/latest.svg?theme=light&amp;v=4" alt="Latest public InkWall message">
   </picture>
 </a>
 
@@ -24,4 +24,19 @@
 
 A public E-Ink message surface connected directly to this profile. Leave a note, add an image, or explore the public archive — the card above is generated from the latest live message.
 
-[Open the live surface](https://angusu.de/inkwall/) · [View the repository](https://github.com/IamAngusU/InkWall)
+<p>
+  <a href="https://angusu.de/inkwall/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://angusu.de/inkwall/action.svg.php?action=live&amp;theme=dark&amp;v=1">
+      <source media="(prefers-color-scheme: light)" srcset="https://angusu.de/inkwall/action.svg.php?action=live&amp;theme=light&amp;v=1">
+      <img width="340" src="https://angusu.de/inkwall/action.svg.php?action=live&amp;theme=light&amp;v=1" alt="Open the live InkWall surface">
+    </picture>
+  </a>&nbsp;
+  <a href="https://github.com/IamAngusU/InkWall">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://angusu.de/inkwall/action.svg.php?action=repo&amp;theme=dark&amp;v=1">
+      <source media="(prefers-color-scheme: light)" srcset="https://angusu.de/inkwall/action.svg.php?action=repo&amp;theme=light&amp;v=1">
+      <img width="340" src="https://angusu.de/inkwall/action.svg.php?action=repo&amp;theme=light&amp;v=1" alt="View the InkWall repository">
+    </picture>
+  </a>
+</p>
