@@ -10,8 +10,6 @@
   </picture>
 </a>
 
-<br />
-
 <a href="https://angusu.de/inkwall/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://angusu.de/inkwall/latest.svg?theme=dark">
