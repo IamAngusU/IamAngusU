@@ -12,9 +12,9 @@
 
 <a href="https://angusu.de/inkwall/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://angusu.de/inkwall/latest.svg?theme=dark&amp;v=4">
-    <source media="(prefers-color-scheme: light)" srcset="https://angusu.de/inkwall/latest.svg?theme=light&amp;v=4">
-    <img width="100%" src="https://angusu.de/inkwall/latest.svg?theme=light&amp;v=4" alt="Latest public InkWall message">
+    <source media="(prefers-color-scheme: dark)" srcset="https://angusu.de/inkwall/latest.svg?theme=dark&amp;v=5">
+    <source media="(prefers-color-scheme: light)" srcset="https://angusu.de/inkwall/latest.svg?theme=light&amp;v=5">
+    <img width="100%" src="https://angusu.de/inkwall/latest.svg?theme=light&amp;v=5" alt="Latest public InkWall message">
   </picture>
 </a>
 
