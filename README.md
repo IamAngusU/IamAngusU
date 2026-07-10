@@ -1,4 +1,4 @@
-<img width="100%" alt="Angus Uelsmann — Systems, Products, Interfaces" src="https://github.com/user-attachments/assets/0fde85a9-f15e-4115-9ad6-ab41ed1d16db" />
+<img width="100%" alt="Angus Uelsmann — Systems, Products, Interfaces" src="https://angusu.de/github/banner.php" />
 
 <br />
 
