@@ -2,7 +2,7 @@
 
 <br />
 
-<a href="https://angusu.de/">
+<a href="https://angusu.de/connect">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://angusu.de/github/system-surface.php?theme=dark">
     <source media="(prefers-color-scheme: light)" srcset="https://angusu.de/github/system-surface.php?theme=light">
