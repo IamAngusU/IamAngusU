@@ -20,6 +20,8 @@
   </picture>
 </a>
 
+<br />
+
 ### InkWall
 
 A public E-Ink message surface connected directly to this profile. Leave a note, add an image, or explore the public archive — the card above is generated from the latest live message.
