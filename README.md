@@ -22,7 +22,7 @@
 
 ### InkWall
 
-A public E-Ink message surface connected directly to this profile. Leave a note, add an image, or explore the public archive — the card above is generated from the latest live message.
+A public E-Ink message surface connected directly to this profile. Leave a note, add an image, or explore the public archive -> the card above is generated from the latest live message. Reload this page to get the latest Ink.
 
 <p>
   <a href="https://angusu.de/inkwall/">
