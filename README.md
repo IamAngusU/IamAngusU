@@ -4,66 +4,47 @@
 
 I build privacy-aware products, backend-heavy systems and calm interfaces that feel simpler than the work underneath them.
 
+<a href="https://angusu.de/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/system-surface-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/system-surface-light.svg">
+    <img width="100%" src="./assets/system-surface-light.svg" alt="Underneath — Angus Uelsmann's public system surface">
+  </picture>
+</a>
+
 <p>
-  <img src="https://img.shields.io/badge/Systems-111111?style=flat-square" alt="Systems" />
-  <img src="https://img.shields.io/badge/Products-111111?style=flat-square" alt="Products" />
-  <img src="https://img.shields.io/badge/Interfaces-111111?style=flat-square" alt="Interfaces" />
-  <img src="https://img.shields.io/badge/Privacy--aware-0f766e?style=flat-square" alt="Privacy-aware" />
-  <img src="https://img.shields.io/badge/Based%20in-Germany-f5f5f4?style=flat-square&logoColor=111111&color=f5f5f4" alt="Based in Germany" />
+  <a href="https://angusu.de/">Public surface</a> ·
+  <a href="https://angusu.de/docs/nightwave/">Nightwave</a> ·
+  <a href="https://angusu.de/docs/imageflow/">ImageFlow</a> ·
+  <a href="https://angusu.de/insights/good-systems-remove-decisions">Latest thought</a>
 </p>
 
-## Current build
+## Selected work
 
-- **[angusu.de](https://angusu.de/)**  
-  Calm on top, complex underneath.
+| | System | What it does |
+|:--|:--|:--|
+| `01` | **[WinTune](https://github.com/IamAngusU/WinTune)** | Local Windows diagnostics with explicit actions and signed updates. |
+| `02` | **[Nightwave](https://angusu.de/docs/nightwave/)** | Theme switching designed to feel alive, not mechanical. |
+| `03` | **[ImageFlow](https://angusu.de/docs/imageflow/)** | Adaptive image delivery for PHP sites without unnecessary infrastructure. |
 
-- **[Nightwave](https://angusu.de/docs/nightwave/)**  
-  Theme switching that feels alive instead of dead.
+## How I build
 
-- **[ImageFlow](https://angusu.de/docs/imageflow/)**  
-  Adaptive image delivery for PHP sites without unnecessary infrastructure.
+**Clear boundaries** over silent coupling · **local-first** where it matters · **privacy-aware** by default · **calm interfaces** over visual noise
 
-- **visionsort**  
-  Local AI-assisted sorting for visual workflows.
-
-## Selected systems
-
-- **Backend systems**  
-  Clear ownership, maintainable boundaries, less silent coupling.
-
-- **Frontend experience**  
-  Motion, clarity and product surfaces that feel intentional.
-
-- **Privacy-aware products**  
-  Useful systems without unnecessary data hunger.
-
-- **Developer tools**  
-  Small tools that remove friction instead of adding setup.
+`PHP` · `C#` · `JavaScript` · `MariaDB` · `MySQL` · `HTML/CSS` · `GitHub Actions`
 
 ## Thinking
 
-- **[Good systems remove decisions](https://angusu.de/insights/good-systems-remove-decisions)**  
-- **[AI does not replace understanding](https://angusu.de/insights/ai-does-not-replace-understanding)**  
-- **[Design should feel like home](https://angusu.de/insights/design-should-feel-like-home)**  
-- **[Why most systems break at scale](https://angusu.de/insights/why-most-systems-break-at-scale)**  
-
-## Surface
+- **[Good systems remove decisions](https://angusu.de/insights/good-systems-remove-decisions)** — complexity should be absorbed by the system, not handed to the user.
+- **[AI does not replace understanding](https://angusu.de/insights/ai-does-not-replace-understanding)** — tools amplify judgment; they do not create it.
+- **[Design should feel like home](https://angusu.de/insights/design-should-feel-like-home)** — familiarity and character can belong in the same interface.
 
 <p>
-  <img src="https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%23-111111?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MariaDB-111111?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/HTML-111111?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-111111?style=flat-square&logo=css&logoColor=white" alt="CSS" />
+  <a href="https://angusu.de/">Website</a> ·
+  <a href="https://angusu.de/insights/">Insights</a> ·
+  <a href="mailto:dev@angusby.dev">Email</a> ·
+  <a href="https://github.com/IamAngusU/IamAngusU/actions/workflows/render-profile.yml"><img src="https://github.com/IamAngusU/IamAngusU/actions/workflows/render-profile.yml/badge.svg" alt="Profile renderer status"></a>
 </p>
-
-## Reach
-
-- **Website:** [angusu.de](https://angusu.de/)
-- **Insights:** [angusu.de/insights](https://angusu.de/insights/)
-- **GitHub:** [github.com/IamAngusU](https://github.com/IamAngusU)
 
 ---
 

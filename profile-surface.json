@@ -1,0 +1,20 @@
+{
+  "eyebrow": "UNDERNEATH / PUBLIC SYSTEM SURFACE",
+  "title": "Calm on top. Working systems underneath.",
+  "surface": {
+    "label": "PUBLIC SURFACE",
+    "name": "angusu.de",
+    "detail": "products, docs & insights"
+  },
+  "currentBuild": {
+    "label": "CURRENT BUILD",
+    "name": "Nightwave · ImageFlow",
+    "detail": "visionSort · local-first"
+  },
+  "latestThought": {
+    "label": "LATEST THOUGHT",
+    "name": "Good systems remove decisions",
+    "detail": "engineering · product · design"
+  },
+  "footer": "PHP  /  C#  /  JAVASCRIPT  /  MARIADB     ·     PRIVACY-AWARE  /  LOCAL-FIRST"
+}
