@@ -24,7 +24,13 @@
 
 ### InkWall
 
-A public E-Ink message surface connected directly to this profile. Leave a note, add an image, or explore the public archive. The card above reflects the latest live message. Reload this page to get the latest ink.
+The card above is live.<br>
+Reload this page to see the latest public ink.
+
+Anyone can replace it with a new public note or image.<br>
+Every accepted submission becomes part of this GitHub profile.
+
+Self-hostable. Configurable. Open source.
 
 <p>
   <a href="https://angusu.de/inkwall/">
