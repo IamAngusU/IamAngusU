@@ -1,4 +1,6 @@
-<img width="100%" alt="Angus Uelsmann: Systems, Products, Interfaces" src="https://angusu.de/github/banner.php?v=2" />
+<!-- <img width="100%" alt="Angus Uelsmann: Systems, Products, Interfaces" src="https://angusu.de/github/banner.php?v=2" /> -->
+<img width="2172" height="724" alt="rounded-corners" src="https://github.com/user-attachments/assets/9d49e3d1-7f80-403a-94e6-978c454ce678" />
+
 
 <br />
 
