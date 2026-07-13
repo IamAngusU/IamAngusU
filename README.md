@@ -24,13 +24,9 @@
 
 ### InkWall
 
-The card above is live.<br>
-Reload this page to see the latest public ink.
+Every new Ink replaces every previous preview.
 
-Anyone can replace it with a new public note or image.<br>
-Every accepted submission becomes part of this GitHub profile.
-
-Self-hostable. Configurable. Open source.
+GitHub is just one of them.
 
 <p>
   <a href="https://angusu.de/inkwall/">
