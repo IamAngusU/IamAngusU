@@ -24,15 +24,12 @@ Live public system dashboard intentionally hidden from the profile, but kept her
 
 <p align="center">
   <a href="https://github.com/IamAngusU/ContextBridge">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IamAngusU/ContextBridge/main/docs/assets/readme/wordmark-dark.svg">
-      <img width="220" src="https://raw.githubusercontent.com/IamAngusU/ContextBridge/main/assets/brand/contextbridge-wordmark.svg" alt="ContextBridge">
-    </picture>
+    <img width="480" src="./assets/contextbridge-project.svg" alt="Open the ContextBridge project">
   </a>
 </p>
 
 <p align="center">
-  Local models, private machines and model APIs — one controlled pool.
+  <sub>Local models, private machines and model APIs — one controlled pool.</sub>
   <br />
   <sub>Current adapter work explores scoped live audio, camera context and explicitly approved external actions.</sub>
 </p>
@@ -57,11 +54,4 @@ Every new Ink replaces every previous preview.
 
 GitHub is just one of them.
 
-<p align="center">
-  <a href="https://angusu.de/inkwall/">
-    <img width="228" src="./assets/inkwall-live.svg" alt="Open the live InkWall surface">
-  </a>
-  <a href="https://github.com/IamAngusU/InkWall">
-    <img width="228" src="./assets/inkwall-repo.svg" alt="View the InkWall repository">
-  </a>
-</p>
+<p align="center"><a href="https://angusu.de/inkwall/"><img width="228" src="./assets/inkwall-live.svg" alt="Open the live InkWall surface"></a>&nbsp;<a href="https://github.com/IamAngusU/InkWall"><img width="228" src="./assets/inkwall-repo.svg" alt="View the InkWall repository"></a></p>
