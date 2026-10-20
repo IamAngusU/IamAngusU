@@ -18,7 +18,7 @@ billing settings; moving a workflow does not resolve the restriction itself.
 Public runners: [HoverBridge](https://github.com/angusu-de/HoverBridge-CI/actions),
 [ShapeDiff](https://github.com/angusu-de/shapediff-ci/actions),
 [MagicLink](https://github.com/angusu-de/MagicLink-CI/actions),
-[ReTrace](https://github.com/angusu-de/ReTrace/actions),
+[ReTrace](https://github.com/angusu-de/ReTrace-CI/actions),
 [Icon Marquee](https://github.com/angusu-de/icon-marquee-ci/actions).
 
 Badges show the linked workflow's latest result, which may be newer or older
